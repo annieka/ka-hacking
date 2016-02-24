@@ -1,0 +1,96 @@
+# test data for testimonials 
+
+# top level for tags
+
+- love:
+    tag_text: "love"
+    count: 83
+    testimonials:
+
+      - 
+        id: 1
+        name: Laurel
+        date: 01/16/2016 
+        body: "My name is Laurel and I started khan a while ago and it has rely been helping me because. I'm not that good at division and with khan it takes me step by step and it helps me go through it. Khan has challenged me because I was not all ways getting my multiplication or division right all the time at school. My school does khan academy too. We all practice on khan academy when we go to the computer lab. So on khan it will help me through my multiplication and division and it makes it fun and easy at the same time. I LOVE KHAN ACADEMY!!!!!"
+        tags: ["practice", "fun", "love"]
+
+      - 
+        id: 2
+        name: Kimberly
+        date: 12/03/2013
+        body: "Dear Khan Academy, I greatly appreciate your videos! Not only did I pass Calculus last year with a 96% , but I also discovered my love for the subject- something I had never experienced before truly understanding the mathematical content and the uses of it."
+        tags: ["Calculus", "love"]
+
+      - 
+        id: 3
+        name: Benjamin 
+        date: 04/26/2013
+        body: "My name is Ben and I am 11 years-old when I was 9 and 10 I hated math so much that when working on it, I would sometimes skip over things! But when my brother discovered Khan Academy, and encouraged me to try it, I was reluctant but I tried it. Now, I'm a total lover of math and lots of other school subjects, thanks to Khan Academy, and GOD!"
+        tags: ["math", "encouraged", "love"]
+
+      - 
+        id: 4
+        name: Karthik
+        date: 04/23/2013
+        body: "Dear Khan Academy I have always wished that I could rewind my teacher like I am able to do in a video. I love science -but when it comes to math it's just too complicating - my brain totally shuts down and goes to 'sleep mode'. I am in 5th grade. I have a wonderful teacher but the information just comes out too fast. Our school's principle announced the usage of KA and (no offense) I was seriously like 'just another try at teaching us students that hate math.'' But surprisingly even with a bad attitude sal has opened that door which was almost permanently closed Thank you sal I swear I actually pray to you every time I ace my test! -Karthik P.S. the world owes you 1000000000000000000000000000000000000,000,000 dollars! (i'm serious!)"
+        tags: ["love", "science"]
+
+- changed:
+    tag_text: "changed"
+    count: 16
+    testimonials:
+      -
+        id: 10
+        name: Marjorie
+        date: 12/06/2012
+        body: "What a wonderful thing you are doing! I am a brain cancer survivor since 2001, and at that time my career as a nurse ended, and my whole life has changed.My cognitive skills have finally become better, althought the memory i have permanent deficits with, so I will be able to re, reread, and watch the videos as often as I want! I am unable to be wiht a lot of people D/T overload which eliminattes being able to go to any scholls where I live. TY for this great site!!"
+        tags: ["cancer survivor", "nurse", "changed"]
+
+      -
+        id: 11
+        name: Gwen
+        date: 11/11/2012
+        body: 'I''ve been using Khan Academy for over a year now and although I still feel like I have a lot to learn about math in particular, I honestly have to say that using this website has changed my perspective on myself and what I can do. Like many people, I had a bad experience with math as a child and it ruined any interest I had in math related topics. It was only recently, a year or two ago, that I realized there were certain things I wanted to do in my life that I couldn't really do because I just didn't have the mathematical skills or intuition to be able to do them. This upset me greatly because I had spent so much time actively avoiding things that had anything to do with math. (I carried around a tip table in my purse so I wouldn't have to calculate the 20% on any restaurant tab...) As it dawned on me that I didn't have the sorts of basic math skills that I really should have, I became very upset that I had let some bad experiences and frustration hinder my progress as an individual. After all, what is education for if not to provide the tools for our own progress as thinking individuals who can participate actively in the world around us? Now, over a year in to using Khan Academy to help me catch up with my long lost math skills, I am in the process of applying to business schools. I'm not a "math person" and may never be as it seems there are still many things about math that I just don't quite understand, however, I know now that the only ingredient I needed was the self motivation to succeed and an appropriate tool to complete the task. I have the motivation, and Khan Academy is the tool. All I can say is that I am truly grateful that you've taken the time and energy to do what you do because it has made a huge difference in my life and I'm sure it will continue to do so because, honestly, I'm hooked!'
+        tags: ["changed", "not a math person", "hooked"]
+
+      -
+        id: 12
+        name: Amerah  
+        date: 08/27/2012
+        body: "I am in 8th grade this year and I have always had a passion for math. I currently live in Egypt and Egypt as you know is not the richest country. With Khan Academy I have been inspired to go beyond. I am now at the top of my class and looking forward to be in an accelerated class next year. I believe that no matter where you are education can still get to you. Thank you sal and all of the Khan Academy team. You changed my life ."
+        tags: ["math", "Egypt", "8th grade", "changed"]
+
+- mom:
+    tag_text: "mom"
+    count: 14
+    testimonials:
+      -
+        id: 20
+        name: Pearl
+        date: 12/03/2012
+        body: "I am a stayed-home-mom and had given up my financial power to my husband for years, hiding behind diapers, meals and driving and have no knowledge to the money world. Now I am hooked with your finance section. It is great."
+        tags: ["mom", "finance", "hooked"]
+      -
+        id: 21
+        name: Beth
+        date: 12/03/2012
+        body: "I am in the 7th grade. School has never been an outsized concern. I am not a straight A student and I never have been. But, 7th grade is a living nightmare. I forget things, I don’t study well, and I am tremendously self conscious of my grades. My mom and I were sitting watching the news when I heard about Khan Academy. I was nearly jumping from enthusiasm. You see I am a synchronized ice skater, and this year if we qualify, we will be going to nationals. Thus I will be traveling allot. Khan Academy not only gave me an occasion to catch up and get ahead, but it also gave me a way to transfer my lessons from school to competitions."
+        tags: ["mom", "7th grade", "synchronized ice skater"]
+      -
+        id: 21
+        name: Christine
+        date: 08/21/2012
+        body: "Thank you, Khan Academy! I'm a mom in my 40's with an undergrad fine arts degree. When I decided to go back to school to study psychology, I thought for sure I'd flunk statistics. I ran through some Khan stats classes (and realized that I needed to back up and do some Khan algebra). I not only passed my stats class, but got an A (at a major university, no less!) I couldn't have done it without you. Thanks."
+        tags: ["mom", "40's", "fine arts", "statistics"]
+
+- math:
+    tag_text: "math"
+    count: 100
+    testimonials:
+
+- math:
+    tag_text: "teacher"
+    count: 80
+    testimonials:
+
+
