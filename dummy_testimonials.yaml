@@ -2,7 +2,7 @@
 
 # top level for tags
 
-- love:
+- 
     tag_text: "love"
     count: 83
     testimonials:
@@ -35,7 +35,7 @@
         body: "Dear Khan Academy I have always wished that I could rewind my teacher like I am able to do in a video. I love science -but when it comes to math it's just too complicating - my brain totally shuts down and goes to 'sleep mode'. I am in 5th grade. I have a wonderful teacher but the information just comes out too fast. Our school's principle announced the usage of KA and (no offense) I was seriously like 'just another try at teaching us students that hate math.'' But surprisingly even with a bad attitude sal has opened that door which was almost permanently closed Thank you sal I swear I actually pray to you every time I ace my test! -Karthik P.S. the world owes you 1000000000000000000000000000000000000,000,000 dollars! (i'm serious!)"
         tags: ["love", "science"]
 
-- changed:
+- 
     tag_text: "changed"
     count: 16
     testimonials:
@@ -60,7 +60,7 @@
         body: "I am in 8th grade this year and I have always had a passion for math. I currently live in Egypt and Egypt as you know is not the richest country. With Khan Academy I have been inspired to go beyond. I am now at the top of my class and looking forward to be in an accelerated class next year. I believe that no matter where you are education can still get to you. Thank you sal and all of the Khan Academy team. You changed my life ."
         tags: ["math", "Egypt", "8th grade", "changed"]
 
-- mom:
+- 
     tag_text: "mom"
     count: 14
     testimonials:
@@ -83,14 +83,14 @@
         body: "Thank you, Khan Academy! I'm a mom in my 40's with an undergrad fine arts degree. When I decided to go back to school to study psychology, I thought for sure I'd flunk statistics. I ran through some Khan stats classes (and realized that I needed to back up and do some Khan algebra). I not only passed my stats class, but got an A (at a major university, no less!) I couldn't have done it without you. Thanks."
         tags: ["mom", "40's", "fine arts", "statistics"]
 
-- math:
+- 
     tag_text: "math"
     count: 100
     testimonials:
 
-- math:
+- 
     tag_text: "teacher"
-    count: 80
+    count: 30
     testimonials:
 
 
